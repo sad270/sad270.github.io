@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/avatar.jpg"/>
+<img src="../assets/img/avatar.jpg" style="max-width: 300px;display: inline-block;width: 100%;"/>
 # Hi, I'm Sadetdin EYILI.
 
 Initial commit:
