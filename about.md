@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me - Sadetdin EYILI
 ---
 
 <img src="../assets/img/avatar.jpg" style="max-width: 300px;display: inline-block;width: 100%;"/>

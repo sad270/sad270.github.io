@@ -12,5 +12,11 @@ entries:
 
   - title: Info
     entries:
-      - title: example page
+      - title: about me
         url: about
+      - title: GitHub @sad270
+        url: https://github.com/sad270
+      - title: X @SadEYILI
+        url: https://twitter.com/SadEYILI
+      - title: LinkedIn Sadetdin EYILI
+        url: https://fr.linkedin.com/in/sadetdin-eyili
