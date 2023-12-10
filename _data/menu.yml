@@ -11,14 +11,14 @@ entries:
             url: https://www.youtube.com/watch?v=RyR22GQYBaU
           - title: Slides
             url: https://github.com/sad270/ForumPHP2023/blob/main/Mutability%20killed%20me%20-%20Immutability%20saved%20me.pdf
+  
   - title: Articles
     entries:
       - title: Medium of ekino-france
         url: https://medium.com/ekino-france/
         entries:
-          - title: [FR] Introduction aux objets immutables
+          - title: "[FR] Introduction aux objets immutables"
             url: https://medium.com/ekino-france/introduction-aux-objets-immutables-f7b7d0b00f36
-
 
   - title: Info
     entries:
