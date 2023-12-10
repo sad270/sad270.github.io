@@ -7,8 +7,10 @@ entries:
       - title: Forum PHP 2023
         url: https://event.afup.org/forum-php-2023/
         entries:
-          - title: YouTube video (coming soon)
-          - title: Slides (coming soon)
+          - title: YouTube video
+            url: https://www.youtube.com/watch?v=RyR22GQYBaU
+          - title: Slides
+            url: https://github.com/sad270/ForumPHP2023/blob/main/Mutability%20killed%20me%20-%20Immutability%20saved%20me.pdf
 
   - title: Info
     entries:
@@ -19,4 +21,4 @@ entries:
       - title: X @SadEYILI
         url: https://twitter.com/SadEYILI
       - title: LinkedIn Sadetdin EYILI
-        url: https://fr.linkedin.com/in/sadetdin-eyili
+        url: https://linkedin.com/in/sadetdin-eyili
